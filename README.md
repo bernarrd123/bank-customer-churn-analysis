@@ -6,18 +6,17 @@ Proyek ini menganalisis data pelanggan bank untuk mengidentifikasi faktor-faktor
 Tujuan proyek ini adalah untuk mendukung strategi retensi pelanggan dengan mengidentifikasi pelanggan berisiko tinggi secara dini.
 
 Dataset:
-
 Source: Bank Customer Churn Dataset
 Records: 10,000 customers
 Target variable: Exited (1 = churn, 0 = non-churn)
 
-🛠️ Tools & Libraries
+Tools & Libraries
 Python
 pandas, numpy
 matplotlib, seaborn
 scikit-learn
 
-🔍 Methodology
+Methodology:
 
 1. Data cleaning and preprocessing
 2. Exploratory Data Analysis (EDA)
@@ -44,6 +43,6 @@ Business Insights:
 2.Keanggotaan aktif secara signifikan mengurangi probabilitas churn.
 3.Prediksi threshold dapat disesuaikan berdasarkan strategi retensi (program terbatas vs massal).
 
-🚀 Conclusion
+Conclusion:
 
 Model ini dapat digunakan sebagai sistem peringatan dini untuk membantu bank memprioritaskan upaya retensi pelanggan secara lebih efektif.
